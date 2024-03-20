@@ -3,7 +3,7 @@
 
 <!-- 통계 카드 -->
 # Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs0225theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs0225&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 사용 언어 -->
 # 🔨 What have I used?
