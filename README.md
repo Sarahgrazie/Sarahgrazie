@@ -6,7 +6,7 @@
 [![Sohyun Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyunchoi&theme=onedark)](https://github.com/sohyunchoi)
 
 <!-- 사용 언어 -->
-# 🔨 What have I used?
+# 🔨 What have Sohyun Choi used?
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohyunchoi&layout=compact)
 
 <!-- 언어 아이콘 -->
