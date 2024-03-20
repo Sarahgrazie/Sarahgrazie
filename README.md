@@ -6,8 +6,8 @@
 [![SOHYUN CHOI's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyunchoi&theme=onedark)](https://github.com/sohyunchoi)
 
 <!-- 사용 언어 -->
-# 🔨 What have I used?
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhs0225&layout=compact)
+# 🔨 What have SOHYUN CHOI used?
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohyunchoi&layout=compact)
 
 <!-- 언어 아이콘 -->
 ## 📋 Languages
@@ -36,3 +36,7 @@
 ## Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<!-- 지메일 아이콘 -->
+## Contact
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-csarah7777@gmail.com)
