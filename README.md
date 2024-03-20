@@ -7,7 +7,7 @@
 
 <!-- 사용 언어 -->
 # 🔨 What have I used?
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohyunchoi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhs0225&layout=compact)
 
 <!-- 언어 아이콘 -->
 ## 📋 Languages
