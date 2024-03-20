@@ -5,7 +5,6 @@
 # Stats
 [![SOHYUN CHOI's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyunchoi&theme=onedark&show_icons=true)](https://github.com/sohyunchoi)
 
-
 <!-- 사용 언어 -->
 # 🔨 What have I used?
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohyunchoi&layout=compact)
