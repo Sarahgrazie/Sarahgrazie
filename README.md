@@ -3,7 +3,8 @@
 
 <!-- 통계 카드 -->
 # Stats
-[![SOHYUN CHOI's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyunchoi&theme=onedark)](https://github.com/sohyunchoi)
+[![SOHYUN CHOI's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyunchoi&theme=onedark&show_icons=true)](https://github.com/sohyunchoi)
+
 
 <!-- 사용 언어 -->
 # 🔨 What have SOHYUN CHOI used?
@@ -39,5 +40,4 @@
 
 <!-- 지메일 아이콘 -->
 ## Contact
-[![Phone](https://img.shields.io/badge/Phone-28a745?style=for-the-badge&logo=phone&logoColor=white)](tel:+1234567890)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
