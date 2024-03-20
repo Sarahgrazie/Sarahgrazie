@@ -7,7 +7,7 @@
 
 
 <!-- 사용 언어 -->
-# 🔨 What have SOHYUN CHOI used?
+# 🔨 What have I used?
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohyunchoi&layout=compact)
 
 <!-- 언어 아이콘 -->
