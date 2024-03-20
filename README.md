@@ -1,12 +1,12 @@
 <!-- 헤더 타이틀 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=to%20the%20Sohyun%20Choi's%20Repo!&descAlignY=51&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=to%20the%20SOHYUN%20CHOI's%20Repo!&descAlignY=51&descAlign=62"/>
 
 <!-- 통계 카드 -->
 # Stats
-[![Sohyun Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyunchoi&theme=onedark)](https://github.com/sohyunchoi)
+[![SOHYUN CHOI's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyunchoi&theme=onedark)](https://github.com/sohyunchoi)
 
 <!-- 사용 언어 -->
-# 🔨 What have Sohyun Choi used?
+# 🔨 What have SOHYUN CHOI used?
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohyunchoi&layout=compact)
 
 <!-- 언어 아이콘 -->
