@@ -3,7 +3,8 @@
 
 <!-- 통계 카드 -->
 # Stats
-[![SOHYUN CHOI's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyunchoi&theme=onedark&show_icons=true)](https://github.com/SOHYUN CHOI)
+[![SOHYUN CHOI's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOHYUNCHOI&theme=onedark&show_icons=true)](https://github.com/SOHYUNCHOI)
+
 
 <!-- 사용 언어 -->
 # 🔨 What have I used?
