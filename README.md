@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Sarah&fontSize=40" />
 
-🌱  📱🐍  
+🌱 
 Passionate about building robust and scalable systems. 🚀
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-yellow?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cs20250201@gmail.com)](mailto:cs20250201@gmail.com)
@@ -38,6 +38,15 @@ Passionate about building robust and scalable systems. 🚀
 
 **IDE**  
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+
+**C Work**
+Col.U -> C.V 
+AWS 
+GOO - 
+SOLOl -
+
+
 
 
 **Tool**  
