@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=TERRY%20YOON&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Sarah&fontSize=40" />
 
 🌱  📱🐍  
 Passionate about building robust and scalable systems. 🚀
