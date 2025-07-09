@@ -1,41 +1,51 @@
-### 👋 안녕하세요! 
+<div align="center">
 
-데이터를 통해 가치를 만들고, 아이디어를 현실로 구현하는 것을 즐깁니다.
-새로운 기술을 배우고 동료들과 함께 성장하는 것을 좋아합니다.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=TERRY%20YOON&fontSize=40" />
 
-<br>
+🌱  📱🐍  
+Passionate about building robust and scalable systems. 🚀
 
-### 🏆 **수상 경력 (Awards & Recognition)**
+[![Gmail Badge](https://img.shields.io/badge/Gmail-yellow?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cs20250201@gmail.com)](mailto:cs20250201@gmail.com)
 
-[cite_start]**2025 수도권 ICT 이노베이션 스퀘어 - 우수상** 
-- [cite_start]**프로젝트명:** 콘텐츠 브랜더스 (Content Branders) 
-- [cite_start]**과정:** 인공지능 심화 
-- [cite_start]**수상팀:** 김병제, 배해성, 최소현 
-- [cite_start]**주관:** goorm 
-- [cite_start]**수상일:** 2025. 05. 13 
+</div>
 
-> [cite_start]AI를 활용한 콘텐츠 브랜딩 자동화 솔루션 "콘텐츠 브랜더스" 프로젝트로 우수한 성과를 인정받아 우수상을 수상했습니다. 
+---
 
-<br>
+## 🚀 A PROJECT
 
-### 🛠️ **기술 스택 (Tech Stack)**
+- 
+---
 
-- **Languages:** Python
-- **Frameworks & Libraries:** Streamlit, TensorFlow, PyTorch, Scikit-learn, Pandas
-- **Tools:** Git, VS Code
+## 🍏 B PROJECT
 
-<br>
-
-### 🌱 **현재 관심 분야 (I'm currently learning...)**
-
-- MLOps
-- Large Language Models (LLM)
+-
 
 
-<br>
+## 💻 My Skills
 
-### 📫 **연락처 (How to reach me)**
+**Language**  
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-- **Email:** cs20250201@gmail.com
-- **LinkedIn:** [나중에 입력하세요]
-- **Blog:** [나중에 입력하세요]
+**DB**  
+<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+**Framework**  
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+**IDE**  
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+
+**Tool**  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+
+## 📊 GitHub Stats
+
+
